@@ -7,21 +7,24 @@ import { cn } from "@/lib/utils";
 
 const skills = [
     // Languages
-    { name: "C++", category: "languages", icon: "/icons/cplusplus.svg" },
-    { name: "Python", category: "languages", icon: "/icons/python.svg" },
-    { name: "Java", category: "languages", icon: "/icons/java.svg" },
     { name: "JavaScript", category: "languages", icon: "/icons/javascript.svg" },
     { name: "HTML/CSS", category: "languages", icon: "/icons/html_css.svg" },
+    { name: "Java", category: "languages", icon: "/icons/java.svg" },
+    { name: "Python", category: "languages", icon: "/icons/python.svg" },
+    { name: "C++", category: "languages", icon: "/icons/cplusplus.svg" },
+    
+    
+    
 
     // Frameworks, Platforms & Libraries
     { name: "React", category: "frameworks & libs", icon: "/icons/react.svg" },
     { name: "Node.js", category: "frameworks & libs", icon: "/icons/nodejs.svg" },
     { name: "Express.js", category: "frameworks & libs", icon: "/icons/express.svg" },
-    { name: "Nodemon", category: "frameworks & libs", icon: "/icons/nodemon.svg" },
+    { name: "Bootstrap", category: "frameworks & libs", icon: "/icons/bootstrap.svg" },
     { name: "Vite", category: "frameworks & libs", icon: "/icons/vite.svg" },
     { name: "Webpack", category: "frameworks & libs", icon: "/icons/webpack.svg" },
     { name: "Tailwind CSS", category: "frameworks & libs", icon: "/icons/tailwindcss.svg" },
-    { name: "Bootstrap", category: "frameworks & libs", icon: "/icons/bootstrap.svg" },
+    { name: "Nodemon", category: "frameworks & libs", icon: "/icons/nodemon.svg" },
     { name: "JWT", category: "frameworks & libs", icon: "/icons/jsonwebtokens.svg" },
     { name: "Mongoose", category: "frameworks & libs", icon: "/icons/mongoose.svg" },
 
