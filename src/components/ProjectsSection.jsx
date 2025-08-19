@@ -28,6 +28,15 @@ const projects = [
         demoUrl: "https://assemblyendgame-eight.vercel.app/",
         githubUrl: "https://github.com/danielsmartins/React_Course/tree/main/AssemblyEndGame"
     },
+    {
+        id: 3,
+        title: "FinPlan",
+        description: "A financial planner app to help you manage your finances",
+        image: "/projects/FinPlan.jpg",
+        tags: ["React", "JavaScript", "Tailwind CSS", "Node.js", "Express", "Prisma", "PostgreSQL"],
+        demoUrl: "https://fin-plan-web.vercel.app/",
+        githubUrl: "https://github.com/danielsmartins/FinPlan"
+    },
 
 ]
 
