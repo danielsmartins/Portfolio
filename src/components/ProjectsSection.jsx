@@ -29,7 +29,6 @@ const projects = [
         },
         image: "/projects/FinPlan.jpg",
         tags: ["React", "Node.js", "Express", "Prisma", "PostgreSQL", "Tailwind CSS"],
-        demoUrl: "https://fin-plan-web.vercel.app/",
         githubUrl: "https://github.com/danielsmartins/FinPlan"
     },
     {
@@ -59,7 +58,6 @@ const projects = [
         },
         image: "/projects/Phonebook.png",
         tags: ["React", "Node.js", "MongoDB", "Express"],
-        demoUrl: "https://fullstack-part3-phonebook-iodu.onrender.com/",
         githubUrl: "https://github.com/danielsmartins/FullStack-part3"
     },
     {
